@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Introduction to Artificial Intelligence",
+        "slug": "introduction-to-artificial-intelligence",
+        "description": "Explore the fundamentals of AI and machine learning with this beginner's course.",
+        "price": 199.99,
+        "instructor": "Dr. Alan Carter",
+        "isFeatured": true,
+        "image": "/courses/ai.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Web Development Essentials",
+        "slug": "web-development-essentials",
+        "description": "Learn the core concepts of web development including HTML, CSS, and JavaScript.",
+        "price": 179.99,
+        "instructor": "Sara White",
+        "isFeatured": false,
+        "image": "/courses/web-dev.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Advanced Data Science",
+        "slug": "advanced-data-science",
+        "description": "Deepen your understanding of data science with advanced techniques in analytics and modeling.",
+        "price": 219.99,
+        "instructor": "Dr. Lisa Roberts",
+        "isFeatured": true,
+        "image": "/courses/data-science.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Cybersecurity Fundamentals",
+        "slug": "cybersecurity-fundamentals",
+        "description": "Gain essential skills to protect digital information and systems from cyber threats.",
+        "price": 189.99,
+        "instructor": "Mark Johnson",
+        "isFeatured": false,
+        "image": "/courses/cybersecurity.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Machine Learning Basics",
+        "slug": "machine-learning-basics",
+        "description": "Get started with machine learning, including algorithms and practical applications.",
+        "price": 209.99,
+        "instructor": "Emily Davis",
+        "isFeatured": false,
+        "image": "/courses/machine-learning.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Cloud Computing with AWS",
+        "slug": "cloud-computing-with-aws",
+        "description": "Learn the basics of cloud computing and how to use Amazon Web Services (AWS) for scalable solutions.",
+        "price": 229.99,
+        "instructor": "Michael Smith",
+        "isFeatured": true,
+        "image": "/courses/aws.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Full Stack Development",
+        "slug": "full-stack-development",
+        "description": "Master both front-end and back-end development with a comprehensive full stack course.",
+        "price": 249.99,
+        "instructor": "Jessica Lee",
+        "isFeatured": false,
+        "image": "/courses/full-stack.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Internet of Things (IoT) Innovations",
+        "slug": "internet-of-things-iot-innovations",
+        "description": "Explore the latest advancements in IoT and learn how to build connected devices.",
+        "price": 239.99,
+        "instructor": "David Brown",
+        "isFeatured": true,
+        "image": "/courses/iot.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Blockchain Technology Overview",
+        "slug": "blockchain-technology-overview",
+        "description": "Understand the principles of blockchain technology and its applications in various industries.",
+        "price": 209.99,
+        "instructor": "Anna Martinez",
+        "isFeatured": false,
+        "image": "/courses/blockchain.jpg"
+      },
+      {
+        "id": 10,
+        "title": "User Experience (UX) Design",
+        "slug": "user-experience-ux-design",
+        "description": "Learn the fundamentals of UX design to create user-friendly and effective digital products.",
+        "price": 199.99,
+        "instructor": "Olivia Wilson",
+        "isFeatured": true,
+        "image": "/courses/ux-design.jpg"
+      }
+    ]
+  }
+  
