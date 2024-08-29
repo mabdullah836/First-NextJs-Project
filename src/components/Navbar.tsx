@@ -25,10 +25,10 @@ const Navbar = ({ className }: { className?: string }) => {
         </Link>
         <MenuItem setActive={setActive} active={active} item="Our Cources">
           <div className="flex flex-col space-y-4 text-sm">
-            <HoveredLink href="/artificial-intelligence">Introduction to Artificial Intelligence</HoveredLink>
-            <HoveredLink href="/web-dev">Web Development Fundamentals</HoveredLink>
-            <HoveredLink href="/ds-python">Data Science with Python</HoveredLink>
-            <HoveredLink href="/cca">Cloud Computing and AWS</HoveredLink>
+            <HoveredLink href="/courses">Introduction to Artificial Intelligence</HoveredLink>
+            <HoveredLink href="/courses">Web Development Fundamentals</HoveredLink>
+            <HoveredLink href="/courses">Data Science with Python</HoveredLink>
+            <HoveredLink href="/courses">Cloud Computing and AWS</HoveredLink>
           </div>
         </MenuItem>
         <Link href="/contact">

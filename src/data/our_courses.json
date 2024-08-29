@@ -8,7 +8,7 @@
         "price": 199.99,
         "instructor": "Dr. Alan Carter",
         "isFeatured": true,
-        "image": "/courses/ai.jpg"
+        "image": "/ai.jpg"
       },
       {
         "id": 2,
@@ -18,7 +18,7 @@
         "price": 179.99,
         "instructor": "Sara White",
         "isFeatured": false,
-        "image": "/courses/web-dev.jpg"
+        "image": "/web.jpg"
       },
       {
         "id": 3,
@@ -28,7 +28,7 @@
         "price": 219.99,
         "instructor": "Dr. Lisa Roberts",
         "isFeatured": true,
-        "image": "/courses/data-science.jpg"
+        "image":"/data.jpg"
       },
       {
         "id": 4,
@@ -38,7 +38,7 @@
         "price": 189.99,
         "instructor": "Mark Johnson",
         "isFeatured": false,
-        "image": "/courses/cybersecurity.jpg"
+        "image": "/cyber.jpg"
       },
       {
         "id": 5,
@@ -48,7 +48,7 @@
         "price": 209.99,
         "instructor": "Emily Davis",
         "isFeatured": false,
-        "image": "/courses/machine-learning.jpg"
+        "image": "/machineleraning.jpg"
       },
       {
         "id": 6,
@@ -58,7 +58,7 @@
         "price": 229.99,
         "instructor": "Michael Smith",
         "isFeatured": true,
-        "image": "/courses/aws.jpg"
+        "image": "/cloud.jpg"
       },
       {
         "id": 7,
@@ -68,7 +68,7 @@
         "price": 249.99,
         "instructor": "Jessica Lee",
         "isFeatured": false,
-        "image": "/courses/full-stack.jpg"
+        "image": "/fullStack.jpg"
       },
       {
         "id": 8,
@@ -78,7 +78,7 @@
         "price": 239.99,
         "instructor": "David Brown",
         "isFeatured": true,
-        "image": "/courses/iot.jpg"
+        "image": "/iot.jfif"
       },
       {
         "id": 9,
@@ -88,7 +88,7 @@
         "price": 209.99,
         "instructor": "Anna Martinez",
         "isFeatured": false,
-        "image": "/courses/blockchain.jpg"
+        "image": "/blockchain.jpg"
       },
       {
         "id": 10,
@@ -98,7 +98,7 @@
         "price": 199.99,
         "instructor": "Olivia Wilson",
         "isFeatured": true,
-        "image": "/courses/ux-design.jpg"
+        "image": "/ux-design.jpg"
       }
     ]
   }
